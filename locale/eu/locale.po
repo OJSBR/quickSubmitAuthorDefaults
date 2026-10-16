@@ -33,11 +33,11 @@ msgstr "Erabiliko den helbidea"
 
 #, fuzzy
 msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.description"
-msgstr "Utzi hutsik aldizkariaren harremanetarako kontaktu nagusiaren helbidea erabiltzeko."
+msgstr "Utzi hutsik aldizkariaren laguntza teknikorako kontaktuaren helbidea erabiltzeko, edo kontaktu nagusiarena ez badago."
 
 #, fuzzy
-msgid "plugins.generic.quickSubmitAuthorDefaults.settings.contactEmail"
-msgstr "Aldizkariaren kontaktu nagusiaren helbide elektronikoa: {$contactEmail}"
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.supportEmail"
+msgstr "Aldizkariaren laguntza teknikorako kontaktua: {$supportEmail}"
 
 #, fuzzy
 msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.invalid"

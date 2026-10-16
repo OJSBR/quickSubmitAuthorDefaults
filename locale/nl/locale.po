@@ -26,10 +26,10 @@ msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email"
 msgstr "Te gebruiken adres"
 
 msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.description"
-msgstr "Laat leeg om het e-mailadres van de hoofdcontactpersoon van het tijdschrift te gebruiken."
+msgstr "Laat leeg om het e-mailadres van de technische ondersteuning van het tijdschrift te gebruiken, of dat van de hoofdcontactpersoon als die er niet is."
 
-msgid "plugins.generic.quickSubmitAuthorDefaults.settings.contactEmail"
-msgstr "E-mailadres van de hoofdcontactpersoon van het tijdschrift: {$contactEmail}"
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.supportEmail"
+msgstr "Technische ondersteuning van het tijdschrift: {$supportEmail}"
 
 msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.invalid"
 msgstr "Voer een geldig e-mailadres in of laat het veld leeg."

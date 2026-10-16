@@ -43,6 +43,7 @@ class DefaultsTest extends PKPTestCase
         $journal = new Journal();
         $journal->setId(7);
         $journal->setData('contactEmail', 'editor@journal.example');
+        $journal->setData('supportEmail', 'support@journal.example');
         $journal->setData('country', 'BR');
         foreach ($data as $name => $value) {
             $journal->setData($name, $value);
@@ -96,12 +97,19 @@ class DefaultsTest extends PKPTestCase
     public function testANewContributorStartsWithTheJournalValuesAndTheAuthorRole(): void
     {
         $this->assertSame(
-            ['email' => 'editor@journal.example', 'country' => 'BR', 'userGroupId' => 14],
+            ['email' => 'support@journal.example', 'country' => 'BR', 'userGroupId' => 14],
             $this->plugin()->getDefaults($this->journal())
         );
     }
 
-    public function testTheAddressChosenByTheJournalWinsOverItsContactAddress(): void
+    public function testWithoutATechnicalSupportContactThePrincipalContactIsUsed(): void
+    {
+        // The technical support contact is optional in OJS; the principal contact is not.
+        $this->assertSame('editor@journal.example', $this->plugin()->getDefaults($this->journal(['supportEmail' => null]))['email']);
+        $this->assertSame('editor@journal.example', $this->plugin()->getDefaults($this->journal(['supportEmail' => '  ']))['email']);
+    }
+
+    public function testTheAddressChosenByTheJournalWinsOverItsSupportAddress(): void
     {
         $defaults = $this->plugin(['email' => ' authors@journal.example '])->getDefaults($this->journal());
 
@@ -118,7 +126,7 @@ class DefaultsTest extends PKPTestCase
 
     public function testWhatTheJournalLacksStaysEmpty(): void
     {
-        $defaults = $this->plugin([], [])->getDefaults($this->journal(['contactEmail' => '', 'country' => null]));
+        $defaults = $this->plugin([], [])->getDefaults($this->journal(['supportEmail' => '', 'contactEmail' => '', 'country' => null]));
 
         $this->assertSame([], $defaults);
     }
@@ -143,7 +151,7 @@ class DefaultsTest extends PKPTestCase
         $form = $this->form();
         $form->initData();
 
-        $this->assertSame('editor@journal.example', $form->getData('email'));
+        $this->assertSame('support@journal.example', $form->getData('email'));
         $this->assertSame('BR', $form->getData('country'));
         $this->assertSame(14, $form->getData('userGroupId'));
         // What the core sets for a new contributor is kept.

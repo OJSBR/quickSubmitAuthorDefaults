@@ -33,11 +33,11 @@ msgstr "Használandó cím"
 
 #, fuzzy
 msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.description"
-msgstr "Hagyja üresen a folyóirat elsődleges kapcsolattartójának e-mail-címéhez."
+msgstr "Hagyja üresen a folyóirat technikai kapcsolattartójának e-mail-címéhez, vagy ha nincs ilyen, az elsődleges kapcsolattartóéhoz."
 
 #, fuzzy
-msgid "plugins.generic.quickSubmitAuthorDefaults.settings.contactEmail"
-msgstr "A folyóirat elsődleges kapcsolattartójának e-mail-címe: {$contactEmail}"
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.supportEmail"
+msgstr "A folyóirat technikai kapcsolattartója: {$supportEmail}"
 
 #, fuzzy
 msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.invalid"

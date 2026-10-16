@@ -8,15 +8,15 @@
   * Distributed under the GNU GPL v3. For full terms see the file docs/COPYING.
   *
   * Opens the form of a new contributor of the Quick Submit plugin already filled
-  * with the email address and the country of the journal and with the Author
-  * role, so that the editor only types the name.
+  * with the technical support email and the country of the journal and with the
+  * Author role, so that the editor only types the name.
   *
   * Plugin version information.
   -->
 <version>
 	<application>quickSubmitAuthorDefaults</application>
 	<type>plugins.generic</type>
-	<release>1.0.0.0</release>
+	<release>1.1.0.0</release>
 	<date>2026-10-16</date>
 	<lazy-load>1</lazy-load>
 	<class>QuickSubmitAuthorDefaultsPlugin</class>

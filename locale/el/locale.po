@@ -33,11 +33,11 @@ msgstr "Διεύθυνση προς χρήση"
 
 #, fuzzy
 msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.description"
-msgstr "Αφήστε το κενό για να χρησιμοποιηθεί το email της κύριας επαφής του περιοδικού."
+msgstr "Αφήστε το κενό για να χρησιμοποιηθεί το email του υπευθύνου τεχνικής υποστήριξης του περιοδικού ή, αν δεν υπάρχει, της κύριας επαφής."
 
 #, fuzzy
-msgid "plugins.generic.quickSubmitAuthorDefaults.settings.contactEmail"
-msgstr "Email της κύριας επαφής του περιοδικού: {$contactEmail}"
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.supportEmail"
+msgstr "Υπεύθυνος τεχνικής υποστήριξης του περιοδικού: {$supportEmail}"
 
 #, fuzzy
 msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.invalid"

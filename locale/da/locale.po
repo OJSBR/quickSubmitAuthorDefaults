@@ -33,11 +33,11 @@ msgstr "Adresse der skal bruges"
 
 #, fuzzy
 msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.description"
-msgstr "Lad feltet være tomt for at bruge e-mailen for tidsskriftets primære kontakt."
+msgstr "Lad feltet være tomt for at bruge e-mailen for tidsskriftets tekniske support, eller for den primære kontakt hvis der ikke er nogen."
 
 #, fuzzy
-msgid "plugins.generic.quickSubmitAuthorDefaults.settings.contactEmail"
-msgstr "E-mail for tidsskriftets primære kontakt: {$contactEmail}"
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.supportEmail"
+msgstr "Tidsskriftets tekniske support: {$supportEmail}"
 
 #, fuzzy
 msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.invalid"

@@ -33,11 +33,11 @@ msgstr "Käytettävä osoite"
 
 #, fuzzy
 msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.description"
-msgstr "Jätä tyhjäksi, niin käytetään lehden pääyhteyshenkilön sähköpostia."
+msgstr "Jätä tyhjäksi, niin käytetään lehden teknisen tuen yhteyshenkilön sähköpostia tai sen puuttuessa pääyhteyshenkilön sähköpostia."
 
 #, fuzzy
-msgid "plugins.generic.quickSubmitAuthorDefaults.settings.contactEmail"
-msgstr "Lehden pääyhteyshenkilön sähköposti: {$contactEmail}"
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.supportEmail"
+msgstr "Lehden teknisen tuen yhteyshenkilö: {$supportEmail}"
 
 #, fuzzy
 msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.invalid"

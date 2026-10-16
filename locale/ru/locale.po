@@ -33,11 +33,11 @@ msgstr "Используемый адрес"
 
 #, fuzzy
 msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.description"
-msgstr "Оставьте пустым, чтобы использовать адрес основного контакта журнала."
+msgstr "Оставьте пустым, чтобы использовать адрес контактного лица технической поддержки журнала или, если его нет, основного контакта."
 
 #, fuzzy
-msgid "plugins.generic.quickSubmitAuthorDefaults.settings.contactEmail"
-msgstr "Адрес основного контакта журнала: {$contactEmail}"
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.supportEmail"
+msgstr "Контактное лицо технической поддержки журнала: {$supportEmail}"
 
 #, fuzzy
 msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.invalid"

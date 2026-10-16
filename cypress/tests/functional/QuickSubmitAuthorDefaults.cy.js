@@ -217,7 +217,8 @@ describe('Quick Submit contributor defaults plugin', function() {
 		const found = (contexts.items || []).find((item) => item.urlPath === contextPath);
 		expect(found, 'the journal ' + contextPath).to.not.eq(undefined);
 		return api(pageUrl('api/v1/contexts/' + found.id)).then((context) => {
-			journal = {contactEmail: context.contactEmail || '', country: context.country || ''};
+			// The technical support contact, or the principal contact where there is none.
+			journal = {email: context.supportEmail || context.contactEmail || '', country: context.country || ''};
 			return journal;
 		});
 	}));
@@ -240,7 +241,7 @@ describe('Quick Submit contributor defaults plugin', function() {
 		});
 	});
 
-	it('Opens a new contributor with the email, the country and the Author role of the journal', function() {
+	it('Opens a new contributor with the support email, the country and the Author role of the journal', function() {
 		login(adminUser, adminPassword);
 		cy.then(() => saveSettings({fillEmail: true, fillCountry: true, fillUserGroup: true}));
 		fetchSettings().then(($form) => {
@@ -249,8 +250,8 @@ describe('Quick Submit contributor defaults plugin', function() {
 
 		journalData().then((context) => newContributorForm().then(($form) => {
 			const values = valuesOf($form);
-			expect(context.contactEmail, 'the journal has a contact address').to.not.eq('');
-			expect(values.email, 'the contact address of the journal').to.eq(context.contactEmail);
+			expect(context.email, 'the journal has a contact address').to.not.eq('');
+			expect(values.email, 'the technical support address of the journal').to.eq(context.email);
 			expect(values.country, 'the country of the journal').to.eq(context.country);
 			expect(values.userGroupId, 'a role of contributors is selected').to.not.eq('');
 			expect(values.userGroupIds, 'among the roles the form offers').to.include(values.userGroupId);

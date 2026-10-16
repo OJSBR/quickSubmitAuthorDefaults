@@ -88,7 +88,7 @@ class QuickSubmitAuthorDefaultsSettingsForm extends Form
 
         TemplateManager::getManager($request)->assign([
             'pluginName' => $this->plugin->getName(),
-            'contactEmail' => (string) $this->context->getData('contactEmail'),
+            'supportEmail' => $this->plugin->getJournalEmail($this->context),
             'journalCountry' => $countryName ?: $country,
             'userGroupOptions' => $userGroupOptions,
         ]);

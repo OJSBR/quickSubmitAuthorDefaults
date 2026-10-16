@@ -33,11 +33,11 @@ msgstr "Адреса што ќе се користи"
 
 #, fuzzy
 msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.description"
-msgstr "Оставете празно за да се користи е-адресата на главниот контакт на списанието."
+msgstr "Оставете празно за да се користи е-адресата на контактот за техничка поддршка на списанието, или на главниот контакт ако го нема."
 
 #, fuzzy
-msgid "plugins.generic.quickSubmitAuthorDefaults.settings.contactEmail"
-msgstr "Е-адреса на главниот контакт на списанието: {$contactEmail}"
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.supportEmail"
+msgstr "Контакт за техничка поддршка на списанието: {$supportEmail}"
 
 #, fuzzy
 msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.invalid"

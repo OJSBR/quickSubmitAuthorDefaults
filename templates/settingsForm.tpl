@@ -30,7 +30,7 @@
 		{fbvFormSection description="plugins.generic.quickSubmitAuthorDefaults.settings.email.description"}
 			{fbvElement type="email" id="email" name="email" value=$email maxlength="90" size=$fbvStyles.size.MEDIUM label="plugins.generic.quickSubmitAuthorDefaults.settings.email"}
 		{/fbvFormSection}
-		<p class="pkp_help">{translate key="plugins.generic.quickSubmitAuthorDefaults.settings.contactEmail" contactEmail=$contactEmail|default:"—"|escape}</p>
+		<p class="pkp_help">{translate key="plugins.generic.quickSubmitAuthorDefaults.settings.supportEmail" supportEmail=$supportEmail|default:"—"|escape}</p>
 	{/fbvFormArea}
 
 	{fbvFormArea id="quickSubmitAuthorDefaultsCountry" title="plugins.generic.quickSubmitAuthorDefaults.settings.area.country"}

@@ -33,11 +33,11 @@ msgstr "العنوان المستخدم"
 
 #, fuzzy
 msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.description"
-msgstr "اتركه فارغًا لاستخدام البريد الإلكتروني لجهة الاتصال الرئيسية للمجلة."
+msgstr "اتركه فارغًا لاستخدام البريد الإلكتروني لجهة الاتصال للدعم الفني في المجلة، أو لجهة الاتصال الرئيسية إن لم توجد."
 
 #, fuzzy
-msgid "plugins.generic.quickSubmitAuthorDefaults.settings.contactEmail"
-msgstr "البريد الإلكتروني لجهة الاتصال الرئيسية للمجلة: {$contactEmail}"
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.supportEmail"
+msgstr "جهة الاتصال للدعم الفني في المجلة: {$supportEmail}"
 
 #, fuzzy
 msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.invalid"

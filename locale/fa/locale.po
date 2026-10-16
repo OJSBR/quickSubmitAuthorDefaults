@@ -33,11 +33,11 @@ msgstr "نشانی مورد استفاده"
 
 #, fuzzy
 msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.description"
-msgstr "برای استفاده از ایمیل تماس اصلی مجله خالی بگذارید."
+msgstr "برای استفاده از ایمیل پشتیبانی فنی مجله، یا در صورت نبود آن ایمیل تماس اصلی، خالی بگذارید."
 
 #, fuzzy
-msgid "plugins.generic.quickSubmitAuthorDefaults.settings.contactEmail"
-msgstr "ایمیل تماس اصلی مجله: {$contactEmail}"
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.supportEmail"
+msgstr "پشتیبانی فنی مجله: {$supportEmail}"
 
 #, fuzzy
 msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.invalid"

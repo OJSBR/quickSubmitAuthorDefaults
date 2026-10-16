@@ -33,11 +33,11 @@ msgstr "გამოსაყენებელი მისამართი"
 
 #, fuzzy
 msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.description"
-msgstr "დატოვეთ ცარიელი, რათა გამოყენებულ იქნეს ჟურნალის მთავარი საკონტაქტო პირის ელფოსტა."
+msgstr "დატოვეთ ცარიელი, რათა გამოყენებულ იქნეს ჟურნალის ტექნიკური მხარდაჭერის კონტაქტის ელფოსტა, ან მისი არარსებობისას — მთავარი კონტაქტის."
 
 #, fuzzy
-msgid "plugins.generic.quickSubmitAuthorDefaults.settings.contactEmail"
-msgstr "ჟურნალის მთავარი საკონტაქტო პირის ელფოსტა: {$contactEmail}"
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.supportEmail"
+msgstr "ჟურნალის ტექნიკური მხარდაჭერის კონტაქტი: {$supportEmail}"
 
 #, fuzzy
 msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.invalid"

@@ -33,11 +33,11 @@ msgstr "Alamat yang digunakan"
 
 #, fuzzy
 msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.description"
-msgstr "Biarkan kosong untuk menggunakan e-mel hubungan utama jurnal."
+msgstr "Biarkan kosong untuk menggunakan e-mel hubungan sokongan teknikal jurnal, atau hubungan utama jika tiada."
 
 #, fuzzy
-msgid "plugins.generic.quickSubmitAuthorDefaults.settings.contactEmail"
-msgstr "E-mel hubungan utama jurnal: {$contactEmail}"
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.supportEmail"
+msgstr "Hubungan sokongan teknikal jurnal: {$supportEmail}"
 
 #, fuzzy
 msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.invalid"

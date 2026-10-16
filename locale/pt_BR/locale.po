@@ -26,10 +26,10 @@ msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email"
 msgstr "Endereço a usar"
 
 msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.description"
-msgstr "Deixe em branco para usar o e-mail do contato principal da revista."
+msgstr "Deixe em branco para usar o e-mail do contato de apoio técnico da revista, ou o do contato principal se ela não tiver."
 
-msgid "plugins.generic.quickSubmitAuthorDefaults.settings.contactEmail"
-msgstr "E-mail do contato principal da revista: {$contactEmail}"
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.supportEmail"
+msgstr "Contato de apoio técnico da revista: {$supportEmail}"
 
 msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.invalid"
 msgstr "Informe um e-mail válido ou deixe o campo em branco."

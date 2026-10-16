@@ -26,10 +26,10 @@ msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email"
 msgstr "Enderezo que se usará"
 
 msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.description"
-msgstr "Déixeo baleiro para usar o correo electrónico do contacto principal da revista."
+msgstr "Déixeo baleiro para usar o correo electrónico do contacto de soporte técnico da revista, ou o do contacto principal se non o ten."
 
-msgid "plugins.generic.quickSubmitAuthorDefaults.settings.contactEmail"
-msgstr "Correo electrónico do contacto principal da revista: {$contactEmail}"
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.supportEmail"
+msgstr "Contacto de soporte técnico da revista: {$supportEmail}"
 
 msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.invalid"
 msgstr "Introduza un enderezo de correo electrónico válido ou deixe o campo baleiro."

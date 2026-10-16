@@ -33,11 +33,11 @@ msgstr "Adres do użycia"
 
 #, fuzzy
 msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.description"
-msgstr "Pozostaw puste, aby użyć adresu e-mail głównego kontaktu czasopisma."
+msgstr "Pozostaw puste, aby użyć adresu e-mail wsparcia technicznego czasopisma lub, jeśli go brak, głównego kontaktu."
 
 #, fuzzy
-msgid "plugins.generic.quickSubmitAuthorDefaults.settings.contactEmail"
-msgstr "Adres e-mail głównego kontaktu czasopisma: {$contactEmail}"
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.supportEmail"
+msgstr "Wsparcie techniczne czasopisma: {$supportEmail}"
 
 #, fuzzy
 msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.invalid"

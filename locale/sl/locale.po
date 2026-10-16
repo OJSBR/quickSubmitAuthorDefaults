@@ -33,11 +33,11 @@ msgstr "Naslov za uporabo"
 
 #, fuzzy
 msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.description"
-msgstr "Pustite prazno, da se uporabi e-pošta glavnega kontakta revije."
+msgstr "Pustite prazno, da se uporabi e-pošta kontakta za podporo revije ali, če ga ni, glavnega kontakta."
 
 #, fuzzy
-msgid "plugins.generic.quickSubmitAuthorDefaults.settings.contactEmail"
-msgstr "E-pošta glavnega kontakta revije: {$contactEmail}"
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.supportEmail"
+msgstr "Kontakt za podporo revije: {$supportEmail}"
 
 #, fuzzy
 msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.invalid"

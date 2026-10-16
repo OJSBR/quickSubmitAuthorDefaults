@@ -33,11 +33,11 @@ msgstr "使用するアドレス"
 
 #, fuzzy
 msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.description"
-msgstr "空欄にすると、ジャーナルの主たる連絡先のメールアドレスを使用します。"
+msgstr "空欄にすると、ジャーナルの技術支援担当者のメールアドレス（いない場合は主たる連絡先）を使用します。"
 
 #, fuzzy
-msgid "plugins.generic.quickSubmitAuthorDefaults.settings.contactEmail"
-msgstr "ジャーナルの主たる連絡先のメールアドレス: {$contactEmail}"
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.supportEmail"
+msgstr "ジャーナルの技術支援担当者: {$supportEmail}"
 
 #, fuzzy
 msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.invalid"

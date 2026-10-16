@@ -33,7 +33,7 @@ class LocaleFilesTest extends PKPTestCase
 
     /** Placeholders each key must keep, exactly once. */
     public const PLACEHOLDERS = [
-        'plugins.generic.quickSubmitAuthorDefaults.settings.contactEmail' => ['{$contactEmail}'],
+        'plugins.generic.quickSubmitAuthorDefaults.settings.supportEmail' => ['{$supportEmail}'],
         'plugins.generic.quickSubmitAuthorDefaults.settings.journalCountry' => ['{$journalCountry}'],
     ];
 

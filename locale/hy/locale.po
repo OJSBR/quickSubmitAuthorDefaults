@@ -33,11 +33,11 @@ msgstr "Օգտագործվող հասցե"
 
 #, fuzzy
 msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.description"
-msgstr "Թողեք դատարկ՝ ամսագրի հիմնական կոնտակտի էլ. հասցեն օգտագործելու համար։"
+msgstr "Թողեք դատարկ՝ ամսագրի տեխնիկական աջակցության կապի էլ. հասցեն օգտագործելու համար, իսկ դրա բացակայության դեպքում՝ հիմնական կոնտակտինը։"
 
 #, fuzzy
-msgid "plugins.generic.quickSubmitAuthorDefaults.settings.contactEmail"
-msgstr "Ամսագրի հիմնական կոնտակտի էլ. հասցե՝ {$contactEmail}"
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.supportEmail"
+msgstr "Ամսագրի տեխնիկական աջակցության կապ՝ {$supportEmail}"
 
 #, fuzzy
 msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.invalid"

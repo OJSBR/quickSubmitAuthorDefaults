@@ -33,11 +33,11 @@ msgstr "Adresa folosită"
 
 #, fuzzy
 msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.description"
-msgstr "Lăsați gol pentru a folosi e-mailul contactului principal al revistei."
+msgstr "Lăsați gol pentru a folosi e-mailul contactului de asistență tehnică al revistei sau, dacă lipsește, al contactului principal."
 
 #, fuzzy
-msgid "plugins.generic.quickSubmitAuthorDefaults.settings.contactEmail"
-msgstr "E-mailul contactului principal al revistei: {$contactEmail}"
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.supportEmail"
+msgstr "Contactul de asistență tehnică al revistei: {$supportEmail}"
 
 #, fuzzy
 msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.invalid"

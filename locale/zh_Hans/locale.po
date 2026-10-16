@@ -33,11 +33,11 @@ msgstr "使用的地址"
 
 #, fuzzy
 msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.description"
-msgstr "留空则使用期刊主要联系人的电子邮件。"
+msgstr "留空则使用期刊技术支持联系人的电子邮件；若未设置，则使用主要联系人的电子邮件。"
 
 #, fuzzy
-msgid "plugins.generic.quickSubmitAuthorDefaults.settings.contactEmail"
-msgstr "期刊主要联系人的电子邮件：{$contactEmail}"
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.supportEmail"
+msgstr "期刊技术支持联系人：{$supportEmail}"
 
 #, fuzzy
 msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.invalid"

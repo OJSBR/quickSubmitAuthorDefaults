@@ -33,11 +33,11 @@ msgstr "Địa chỉ sử dụng"
 
 #, fuzzy
 msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.description"
-msgstr "Để trống để dùng email liên hệ chính của tạp chí."
+msgstr "Để trống để dùng email liên hệ hỗ trợ kỹ thuật của tạp chí, hoặc email liên hệ chính nếu không có."
 
 #, fuzzy
-msgid "plugins.generic.quickSubmitAuthorDefaults.settings.contactEmail"
-msgstr "Email liên hệ chính của tạp chí: {$contactEmail}"
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.supportEmail"
+msgstr "Liên hệ hỗ trợ kỹ thuật của tạp chí: {$supportEmail}"
 
 #, fuzzy
 msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.invalid"

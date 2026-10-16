@@ -33,11 +33,11 @@ msgstr "Kullanılacak adres"
 
 #, fuzzy
 msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.description"
-msgstr "Derginin birincil iletişim e-postasını kullanmak için boş bırakın."
+msgstr "Derginin teknik destek iletişim e-postasını, yoksa birincil iletişim e-postasını kullanmak için boş bırakın."
 
 #, fuzzy
-msgid "plugins.generic.quickSubmitAuthorDefaults.settings.contactEmail"
-msgstr "Derginin birincil iletişim e-postası: {$contactEmail}"
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.supportEmail"
+msgstr "Derginin teknik destek iletişimi: {$supportEmail}"
 
 #, fuzzy
 msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.invalid"

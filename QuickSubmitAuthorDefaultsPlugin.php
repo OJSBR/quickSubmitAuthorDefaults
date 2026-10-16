@@ -9,8 +9,8 @@
  * @class QuickSubmitAuthorDefaultsPlugin
  *
  * @brief Opens the form of a new contributor of the Quick Submit plugin already
- *        filled with the email address and the country of the journal and with
- *        the Author role, so that the editor only types the name.
+ *        filled with the technical support email and the country of the journal
+ *        and with the Author role, so that the editor only types the name.
  *
  * In OJS 3.5 the contributors of a submission are added through the Vue form of
  * the workflow, which this plugin leaves alone. The legacy contributor form —
@@ -18,7 +18,8 @@
  * the Quick Submit plugin opens, and it requires an email address, a country and
  * a role for every contributor. An editor who is recording an article that was
  * already published elsewhere seldom has the email address of each coauthor and
- * has to invent one; this plugin puts the address of the journal there instead.
+ * has to invent one; this plugin puts the technical support address of the
+ * journal there instead.
  *
  * It is done through one hook, `authorform::initdata`, fired by Form::initData()
  * with the name of the class in lowercase. Only a new contributor is touched:
@@ -112,7 +113,7 @@ class QuickSubmitAuthorDefaultsPlugin extends GenericPlugin
 
     /**
      * The address the journal chose for its contributors, or an empty string
-     * when it chose none and its contact address is used.
+     * when it chose none and its technical support address is used.
      */
     public function getChosenEmail(?int $contextId): string
     {
@@ -158,7 +159,7 @@ class QuickSubmitAuthorDefaultsPlugin extends GenericPlugin
         $defaults = [];
 
         if ($this->getFlag($contextId, 'fillEmail')) {
-            $email = $this->getChosenEmail($contextId) ?: trim((string) $context->getData('contactEmail'));
+            $email = $this->getChosenEmail($contextId) ?: $this->getJournalEmail($context);
             if ($email !== '') {
                 $defaults['email'] = $email;
             }
@@ -179,6 +180,17 @@ class QuickSubmitAuthorDefaultsPlugin extends GenericPlugin
         }
 
         return $defaults;
+    }
+
+    /**
+     * The address of the journal a new contributor starts with: the email of its
+     * technical support contact, or of its principal contact when it has no
+     * technical support contact (that one is optional in OJS, the principal
+     * contact is not).
+     */
+    public function getJournalEmail(Context $context): string
+    {
+        return trim((string) $context->getData('supportEmail')) ?: trim((string) $context->getData('contactEmail'));
     }
 
     /**
