@@ -288,7 +288,10 @@ describe('Quick Submit contributor defaults plugin', function() {
 			{log: false, timeout: 30000}
 		)).then((json) => {
 			expect(json.content || '', 'the form comes back').to.not.eq('');
-			expect(Cypress.$('<div>').html(json.content).find('input[name="email"]').hasClass('error'), 'with the address marked as wrong').to.eq(true);
+			// The form builder marks the label of a refused field, not the input.
+			const $answer = Cypress.$('<div>').html(json.content);
+			const emailId = $answer.find('input[name="email"]').attr('id');
+			expect($answer.find('label.error[for="' + emailId + '"]').length, 'with the address marked as wrong').to.eq(1);
 		});
 		fetchSettings().then(($settings) => {
 			expect(settingsOf($settings).email, 'nothing was stored').to.eq(CHOSEN_EMAIL);
