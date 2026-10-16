@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: zh_Hans\n"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.displayName"
+msgstr "快速投稿作者默认值"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.description"
+msgstr "在快速投稿中打开新作者表单时，预先填入期刊的电子邮件地址、国家和“作者”角色，编辑只需输入姓名。所有字段仍可编辑。"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.intro"
+msgstr "编辑在快速投稿中添加作者时，表单会以下方选择的值打开。这些只是起点：保存前每一项都可以修改。"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.area.email"
+msgstr "电子邮件地址"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.fillEmail"
+msgstr "填写新作者的电子邮件地址"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email"
+msgstr "使用的地址"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.description"
+msgstr "留空则使用期刊主要联系人的电子邮件。"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.contactEmail"
+msgstr "期刊主要联系人的电子邮件：{$contactEmail}"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.invalid"
+msgstr "请输入有效的电子邮件地址，或将此字段留空。"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.area.country"
+msgstr "国家"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.fillCountry"
+msgstr "用期刊的国家填写新作者的国家"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.journalCountry"
+msgstr "期刊设置中设定的期刊国家：{$journalCountry}"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.area.userGroup"
+msgstr "作者角色"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.fillUserGroup"
+msgstr "选择新作者的角色"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup"
+msgstr "角色"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup.description"
+msgstr "未选择角色时，使用期刊默认的“作者”角色。"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup.journalDefault"
+msgstr "期刊默认的“作者”角色"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup.invalid"
+msgstr "请选择本期刊的作者角色之一。"

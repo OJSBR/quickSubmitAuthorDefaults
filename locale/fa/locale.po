@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: fa\n"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.displayName"
+msgstr "پیش‌فرض‌های پدیدآورندگان در ارسال سریع"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.description"
+msgstr "فرم پدیدآورنده جدید در ارسال سریع را با نشانی ایمیل و کشور مجله و نقش نویسنده از پیش پر شده باز می‌کند تا ویراستار فقط نام را بنویسد. همه فیلدها قابل ویرایش می‌مانند."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.intro"
+msgstr "وقتی ویراستار در ارسال سریع پدیدآورنده‌ای اضافه می‌کند، فرم با مقادیر انتخاب‌شده در زیر باز می‌شود. این مقادیر فقط نقطه شروع‌اند: هر کدام را می‌توان پیش از ذخیره تغییر داد."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.area.email"
+msgstr "نشانی ایمیل"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.fillEmail"
+msgstr "پر کردن نشانی ایمیل پدیدآورنده جدید"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email"
+msgstr "نشانی مورد استفاده"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.description"
+msgstr "برای استفاده از ایمیل تماس اصلی مجله خالی بگذارید."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.contactEmail"
+msgstr "ایمیل تماس اصلی مجله: {$contactEmail}"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.invalid"
+msgstr "یک نشانی ایمیل معتبر وارد کنید یا فیلد را خالی بگذارید."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.area.country"
+msgstr "کشور"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.fillCountry"
+msgstr "پر کردن کشور پدیدآورنده جدید با کشور مجله"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.journalCountry"
+msgstr "کشور مجله، تعیین‌شده در تنظیمات مجله: {$journalCountry}"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.area.userGroup"
+msgstr "نقش پدیدآورنده"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.fillUserGroup"
+msgstr "انتخاب نقش پدیدآورنده جدید"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup"
+msgstr "نقش"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup.description"
+msgstr "تا زمانی که نقشی انتخاب نشده، نقش پیش‌فرض نویسنده مجله به کار می‌رود."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup.journalDefault"
+msgstr "نقش پیش‌فرض نویسنده مجله"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup.invalid"
+msgstr "یکی از نقش‌های پدیدآورنده این مجله را انتخاب کنید."

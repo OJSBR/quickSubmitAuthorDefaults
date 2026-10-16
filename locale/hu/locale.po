@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: hu\n"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.displayName"
+msgstr "Gyorsbeküldés szerzői alapértékei"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.description"
+msgstr "A Gyorsbeküldés új szerzői űrlapját már kitöltve nyitja meg a folyóirat e-mail-címével, országával és a Szerző szerepkörrel, így a szerkesztőnek csak a nevet kell beírnia. Minden mező szerkeszthető marad."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.intro"
+msgstr "Amikor egy szerkesztő szerzőt ad hozzá a Gyorsbeküldésben, az űrlap az alább választott értékekkel nyílik meg. Ezek csak kiindulópontok: mindegyik módosítható mentés előtt."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.area.email"
+msgstr "E-mail-cím"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.fillEmail"
+msgstr "Új szerző e-mail-címének kitöltése"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email"
+msgstr "Használandó cím"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.description"
+msgstr "Hagyja üresen a folyóirat elsődleges kapcsolattartójának e-mail-címéhez."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.contactEmail"
+msgstr "A folyóirat elsődleges kapcsolattartójának e-mail-címe: {$contactEmail}"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.invalid"
+msgstr "Adjon meg érvényes e-mail-címet, vagy hagyja üresen a mezőt."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.area.country"
+msgstr "Ország"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.fillCountry"
+msgstr "Új szerző országának kitöltése a folyóirat országával"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.journalCountry"
+msgstr "A folyóirat beállításaiban megadott ország: {$journalCountry}"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.area.userGroup"
+msgstr "Szerzői szerepkör"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.fillUserGroup"
+msgstr "Új szerző szerepkörének kiválasztása"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup"
+msgstr "Szerepkör"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup.description"
+msgstr "Amíg nincs szerepkör kiválasztva, a folyóirat alapértelmezett Szerző szerepköre érvényes."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup.journalDefault"
+msgstr "A folyóirat alapértelmezett Szerző szerepköre"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup.invalid"
+msgstr "Válassza a folyóirat egyik szerzői szerepkörét."

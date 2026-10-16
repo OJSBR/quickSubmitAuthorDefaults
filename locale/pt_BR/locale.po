@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: pt_BR\n"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.displayName"
+msgstr "Padrões de coautor da Submissão rápida"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.description"
+msgstr "Abre o formulário de um novo coautor da Submissão rápida já preenchido com o e-mail e o país da revista e com o papel de Autor, para que o editor digite só o nome. Todos os campos continuam editáveis."
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.intro"
+msgstr "Quando um editor inclui um coautor na Submissão rápida, o formulário abre com os valores escolhidos abaixo. São apenas um ponto de partida: cada um pode ser alterado antes de salvar."
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.area.email"
+msgstr "E-mail"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.fillEmail"
+msgstr "Preencher o e-mail de um novo coautor"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email"
+msgstr "Endereço a usar"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.description"
+msgstr "Deixe em branco para usar o e-mail do contato principal da revista."
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.contactEmail"
+msgstr "E-mail do contato principal da revista: {$contactEmail}"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.invalid"
+msgstr "Informe um e-mail válido ou deixe o campo em branco."
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.area.country"
+msgstr "País"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.fillCountry"
+msgstr "Preencher o país de um novo coautor com o país da revista"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.journalCountry"
+msgstr "País da revista, definido nas configurações da revista: {$journalCountry}"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.area.userGroup"
+msgstr "Papel do coautor"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.fillUserGroup"
+msgstr "Selecionar o papel de um novo coautor"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup"
+msgstr "Papel"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup.description"
+msgstr "Enquanto nenhum papel for escolhido, vale o papel padrão de Autor da revista."
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup.journalDefault"
+msgstr "Papel padrão de Autor da revista"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup.invalid"
+msgstr "Escolha um dos papéis de coautor desta revista."

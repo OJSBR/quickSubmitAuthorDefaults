@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: tr\n"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.displayName"
+msgstr "Hızlı Gönderi Katkıda Bulunan Varsayılanları"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.description"
+msgstr "Hızlı Gönderi'de yeni katkıda bulunan formunu derginin e-posta adresi, ülkesi ve Yazar rolüyle önceden doldurulmuş olarak açar; editör yalnızca adı yazar. Tüm alanlar düzenlenebilir kalır."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.intro"
+msgstr "Bir editör Hızlı Gönderi'de katkıda bulunan eklediğinde form aşağıda seçilen değerlerle açılır. Bunlar yalnızca başlangıç noktasıdır: her biri kaydetmeden önce değiştirilebilir."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.area.email"
+msgstr "E-posta adresi"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.fillEmail"
+msgstr "Yeni katkıda bulunanın e-posta adresini doldur"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email"
+msgstr "Kullanılacak adres"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.description"
+msgstr "Derginin birincil iletişim e-postasını kullanmak için boş bırakın."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.contactEmail"
+msgstr "Derginin birincil iletişim e-postası: {$contactEmail}"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.invalid"
+msgstr "Geçerli bir e-posta adresi girin veya alanı boş bırakın."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.area.country"
+msgstr "Ülke"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.fillCountry"
+msgstr "Yeni katkıda bulunanın ülkesini derginin ülkesiyle doldur"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.journalCountry"
+msgstr "Dergi ayarlarında belirlenen derginin ülkesi: {$journalCountry}"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.area.userGroup"
+msgstr "Katkıda bulunanın rolü"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.fillUserGroup"
+msgstr "Yeni katkıda bulunanın rolünü seç"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup"
+msgstr "Rol"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup.description"
+msgstr "Hiçbir rol seçilmediği sürece derginin varsayılan Yazar rolü kullanılır."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup.journalDefault"
+msgstr "Derginin varsayılan Yazar rolü"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup.invalid"
+msgstr "Bu derginin katkıda bulunan rollerinden birini seçin."

@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: bg\n"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.displayName"
+msgstr "Стойности по подразбиране за автори в QuickSubmit"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.description"
+msgstr "Отваря формуляра за нов автор в QuickSubmit, вече попълнен с имейл адреса и държавата на списанието и с ролята Автор, така че редакторът да въведе само името. Всички полета остават редактируеми."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.intro"
+msgstr "Когато редактор добавя автор в QuickSubmit, формулярът се отваря със стойностите, избрани по-долу. Те са само отправна точка: всяка може да се промени преди запазване."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.area.email"
+msgstr "Имейл адрес"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.fillEmail"
+msgstr "Попълване на имейл адреса на нов автор"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email"
+msgstr "Адрес, който да се използва"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.description"
+msgstr "Оставете празно, за да се използва имейлът на основния контакт на списанието."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.contactEmail"
+msgstr "Имейл на основния контакт на списанието: {$contactEmail}"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.invalid"
+msgstr "Въведете валиден имейл адрес или оставете полето празно."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.area.country"
+msgstr "Държава"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.fillCountry"
+msgstr "Попълване на държавата на нов автор с държавата на списанието"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.journalCountry"
+msgstr "Държава на списанието, зададена в настройките на списанието: {$journalCountry}"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.area.userGroup"
+msgstr "Роля на автора"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.fillUserGroup"
+msgstr "Избиране на ролята на нов автор"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup"
+msgstr "Роля"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup.description"
+msgstr "Докато не е избрана роля, се използва ролята Автор по подразбиране на списанието."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup.journalDefault"
+msgstr "Роля Автор по подразбиране на списанието"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup.invalid"
+msgstr "Изберете една от авторските роли на това списание."

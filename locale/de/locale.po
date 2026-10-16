@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: de\n"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.displayName"
+msgstr "Vorgaben für Beitragende bei der Schnelleinreichung"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.description"
+msgstr "Öffnet das Formular für neue Beitragende der Schnelleinreichung bereits ausgefüllt mit der E-Mail-Adresse und dem Land der Zeitschrift und mit der Rolle Autor/in, sodass die Redaktion nur noch den Namen eingibt. Alle Felder bleiben bearbeitbar."
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.intro"
+msgstr "Wenn die Redaktion bei der Schnelleinreichung eine/n Beitragende/n hinzufügt, öffnet sich das Formular mit den unten gewählten Werten. Sie sind nur ein Ausgangspunkt: Jeder Wert kann vor dem Speichern geändert werden."
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.area.email"
+msgstr "E-Mail-Adresse"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.fillEmail"
+msgstr "E-Mail-Adresse neuer Beitragender ausfüllen"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email"
+msgstr "Zu verwendende Adresse"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.description"
+msgstr "Leer lassen, um die E-Mail-Adresse des Hauptkontakts der Zeitschrift zu verwenden."
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.contactEmail"
+msgstr "E-Mail-Adresse des Hauptkontakts der Zeitschrift: {$contactEmail}"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.invalid"
+msgstr "Geben Sie eine gültige E-Mail-Adresse ein oder lassen Sie das Feld leer."
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.area.country"
+msgstr "Land"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.fillCountry"
+msgstr "Land neuer Beitragender mit dem Land der Zeitschrift ausfüllen"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.journalCountry"
+msgstr "Land der Zeitschrift, festgelegt in den Zeitschrifteneinstellungen: {$journalCountry}"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.area.userGroup"
+msgstr "Rolle der Beitragenden"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.fillUserGroup"
+msgstr "Rolle neuer Beitragender auswählen"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup"
+msgstr "Rolle"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup.description"
+msgstr "Solange keine Rolle gewählt ist, wird die Standardrolle Autor/in der Zeitschrift verwendet."
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup.journalDefault"
+msgstr "Standardrolle Autor/in der Zeitschrift"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup.invalid"
+msgstr "Wählen Sie eine der Beitragenden-Rollen dieser Zeitschrift."

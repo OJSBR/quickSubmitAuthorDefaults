@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: gl\n"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.displayName"
+msgstr "Valores predeterminados de colaborador de QuickSubmit"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.description"
+msgstr "Abre o formulario dun novo colaborador de QuickSubmit xa cuberto co enderezo de correo electrónico e o país da revista e co rol de Autor, para que o editor só escriba o nome. Todos os campos seguen sendo editables."
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.intro"
+msgstr "Cando un editor engade un colaborador en QuickSubmit, o formulario ábrese cos valores escollidos abaixo. Son só un punto de partida: cada un pode cambiarse antes de gardar."
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.area.email"
+msgstr "Enderezo de correo electrónico"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.fillEmail"
+msgstr "Cubrir o enderezo de correo electrónico dun novo colaborador"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email"
+msgstr "Enderezo que se usará"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.description"
+msgstr "Déixeo baleiro para usar o correo electrónico do contacto principal da revista."
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.contactEmail"
+msgstr "Correo electrónico do contacto principal da revista: {$contactEmail}"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.invalid"
+msgstr "Introduza un enderezo de correo electrónico válido ou deixe o campo baleiro."
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.area.country"
+msgstr "País"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.fillCountry"
+msgstr "Cubrir o país dun novo colaborador co país da revista"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.journalCountry"
+msgstr "País da revista, definido na configuración da revista: {$journalCountry}"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.area.userGroup"
+msgstr "Rol do colaborador"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.fillUserGroup"
+msgstr "Seleccionar o rol dun novo colaborador"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup"
+msgstr "Rol"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup.description"
+msgstr "Mentres non se escolla ningún rol, úsase o rol de Autor predeterminado da revista."
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup.journalDefault"
+msgstr "Rol de Autor predeterminado da revista"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup.invalid"
+msgstr "Escolla un dos roles de colaborador desta revista."

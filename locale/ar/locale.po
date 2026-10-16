@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: ar\n"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.displayName"
+msgstr "القيم الافتراضية للمساهمين في QuickSubmit"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.description"
+msgstr "يفتح نموذج مساهم جديد في QuickSubmit مملوءًا مسبقًا بالبريد الإلكتروني للمجلة وبلدها وبدور المؤلف، ليكتب المحرر الاسم فقط. تبقى جميع الحقول قابلة للتعديل."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.intro"
+msgstr "عندما يضيف محرر مساهمًا في QuickSubmit، يُفتح النموذج بالقيم المختارة أدناه. هي مجرد نقطة بداية: يمكن تغيير كل منها قبل الحفظ."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.area.email"
+msgstr "البريد الإلكتروني"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.fillEmail"
+msgstr "ملء البريد الإلكتروني للمساهم الجديد"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email"
+msgstr "العنوان المستخدم"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.description"
+msgstr "اتركه فارغًا لاستخدام البريد الإلكتروني لجهة الاتصال الرئيسية للمجلة."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.contactEmail"
+msgstr "البريد الإلكتروني لجهة الاتصال الرئيسية للمجلة: {$contactEmail}"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.invalid"
+msgstr "أدخل بريدًا إلكترونيًا صالحًا أو اترك الحقل فارغًا."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.area.country"
+msgstr "البلد"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.fillCountry"
+msgstr "ملء بلد المساهم الجديد ببلد المجلة"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.journalCountry"
+msgstr "بلد المجلة، المحدد في إعدادات المجلة: {$journalCountry}"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.area.userGroup"
+msgstr "دور المساهم"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.fillUserGroup"
+msgstr "اختيار دور المساهم الجديد"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup"
+msgstr "الدور"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup.description"
+msgstr "ما دام لم يُختر أي دور، يُستخدم دور المؤلف الافتراضي للمجلة."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup.journalDefault"
+msgstr "دور المؤلف الافتراضي للمجلة"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup.invalid"
+msgstr "اختر أحد أدوار المساهمين في هذه المجلة."

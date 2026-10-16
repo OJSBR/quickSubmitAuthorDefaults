@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: az\n"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.displayName"
+msgstr "QuickSubmit müəllif standartları"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.description"
+msgstr "QuickSubmit-də yeni müəllif formunu jurnalın e-poçt ünvanı, ölkəsi və Müəllif rolu ilə doldurulmuş açır ki, redaktor yalnız adı yazsın. Bütün sahələr redaktə edilə bilər."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.intro"
+msgstr "Redaktor QuickSubmit-də müəllif əlavə etdikdə form aşağıda seçilmiş dəyərlərlə açılır. Onlar yalnız başlanğıc nöqtəsidir: hər biri yadda saxlamadan əvvəl dəyişdirilə bilər."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.area.email"
+msgstr "E-poçt ünvanı"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.fillEmail"
+msgstr "Yeni müəllifin e-poçt ünvanını doldurmaq"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email"
+msgstr "İstifadə ediləcək ünvan"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.description"
+msgstr "Jurnalın əsas əlaqə e-poçtunu istifadə etmək üçün boş buraxın."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.contactEmail"
+msgstr "Jurnalın əsas əlaqə e-poçtu: {$contactEmail}"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.invalid"
+msgstr "Etibarlı e-poçt ünvanı daxil edin və ya sahəni boş buraxın."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.area.country"
+msgstr "Ölkə"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.fillCountry"
+msgstr "Yeni müəllifin ölkəsini jurnalın ölkəsi ilə doldurmaq"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.journalCountry"
+msgstr "Jurnal parametrlərində təyin edilmiş jurnalın ölkəsi: {$journalCountry}"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.area.userGroup"
+msgstr "Müəllifin rolu"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.fillUserGroup"
+msgstr "Yeni müəllifin rolunu seçmək"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup"
+msgstr "Rol"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup.description"
+msgstr "Heç bir rol seçilmədikcə jurnalın standart Müəllif rolu istifadə olunur."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup.journalDefault"
+msgstr "Jurnalın standart Müəllif rolu"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup.invalid"
+msgstr "Bu jurnalın müəllif rollarından birini seçin."

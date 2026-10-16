@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: nl\n"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.displayName"
+msgstr "Standaardwaarden voor auteurs bij Snel inzenden"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.description"
+msgstr "Opent het formulier van een nieuwe auteur bij Snel inzenden al ingevuld met het e-mailadres en het land van het tijdschrift en met de rol Auteur, zodat de redacteur alleen de naam hoeft te typen. Alle velden blijven bewerkbaar."
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.intro"
+msgstr "Wanneer een redacteur bij Snel inzenden een auteur toevoegt, opent het formulier met de hieronder gekozen waarden. Ze zijn slechts een vertrekpunt: elke waarde kan vóór het opslaan worden gewijzigd."
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.area.email"
+msgstr "E-mailadres"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.fillEmail"
+msgstr "Het e-mailadres van een nieuwe auteur invullen"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email"
+msgstr "Te gebruiken adres"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.description"
+msgstr "Laat leeg om het e-mailadres van de hoofdcontactpersoon van het tijdschrift te gebruiken."
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.contactEmail"
+msgstr "E-mailadres van de hoofdcontactpersoon van het tijdschrift: {$contactEmail}"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.invalid"
+msgstr "Voer een geldig e-mailadres in of laat het veld leeg."
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.area.country"
+msgstr "Land"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.fillCountry"
+msgstr "Het land van een nieuwe auteur invullen met het land van het tijdschrift"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.journalCountry"
+msgstr "Land van het tijdschrift, ingesteld in de tijdschriftinstellingen: {$journalCountry}"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.area.userGroup"
+msgstr "Rol van de auteur"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.fillUserGroup"
+msgstr "De rol van een nieuwe auteur selecteren"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup"
+msgstr "Rol"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup.description"
+msgstr "Zolang er geen rol is gekozen, wordt de standaardrol Auteur van het tijdschrift gebruikt."
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup.journalDefault"
+msgstr "Standaardrol Auteur van het tijdschrift"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup.invalid"
+msgstr "Kies een van de auteursrollen van dit tijdschrift."

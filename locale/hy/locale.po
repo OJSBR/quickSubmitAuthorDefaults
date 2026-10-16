@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: hy\n"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.displayName"
+msgstr "QuickSubmit-ի հեղինակների լռելյայն արժեքներ"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.description"
+msgstr "Բացում է QuickSubmit-ի նոր հեղինակի ձևը՝ արդեն լրացված ամսագրի էլ. հասցեով, երկրով և Հեղինակի դերով, որպեսզի խմբագիրը մուտքագրի միայն անունը։ Բոլոր դաշտերը մնում են խմբագրելի։"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.intro"
+msgstr "Երբ խմբագիրը QuickSubmit-ում հեղինակ է ավելացնում, ձևը բացվում է ստորև ընտրված արժեքներով։ Դրանք միայն մեկնակետ են. յուրաքանչյուրը կարելի է փոխել պահպանելուց առաջ։"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.area.email"
+msgstr "Էլ. հասցե"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.fillEmail"
+msgstr "Լրացնել նոր հեղինակի էլ. հասցեն"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email"
+msgstr "Օգտագործվող հասցե"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.description"
+msgstr "Թողեք դատարկ՝ ամսագրի հիմնական կոնտակտի էլ. հասցեն օգտագործելու համար։"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.contactEmail"
+msgstr "Ամսագրի հիմնական կոնտակտի էլ. հասցե՝ {$contactEmail}"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.invalid"
+msgstr "Մուտքագրեք վավեր էլ. հասցե կամ թողեք դաշտը դատարկ։"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.area.country"
+msgstr "Երկիր"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.fillCountry"
+msgstr "Լրացնել նոր հեղինակի երկիրը ամսագրի երկրով"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.journalCountry"
+msgstr "Ամսագրի կարգավորումներում նշված ամսագրի երկիրը՝ {$journalCountry}"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.area.userGroup"
+msgstr "Հեղինակի դեր"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.fillUserGroup"
+msgstr "Ընտրել նոր հեղինակի դերը"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup"
+msgstr "Դեր"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup.description"
+msgstr "Քանի դեռ դեր ընտրված չէ, օգտագործվում է ամսագրի լռելյայն Հեղինակի դերը։"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup.journalDefault"
+msgstr "Ամսագրի լռելյայն Հեղինակի դեր"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup.invalid"
+msgstr "Ընտրեք այս ամսագրի հեղինակային դերերից մեկը։"

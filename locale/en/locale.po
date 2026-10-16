@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: en\n"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.displayName"
+msgstr "Quick Submit Contributor Defaults"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.description"
+msgstr "Opens the form of a new contributor in Quick Submit already filled in with the email address and the country of the journal and with the Author role, so the editor only types the name. Every field stays editable."
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.intro"
+msgstr "When an editor adds a contributor in Quick Submit, the form opens with the values chosen below. They are only a starting point: each one can be changed before saving."
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.area.email"
+msgstr "Email address"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.fillEmail"
+msgstr "Fill in the email address of a new contributor"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email"
+msgstr "Address to use"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.description"
+msgstr "Leave it empty to use the principal contact email of the journal."
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.contactEmail"
+msgstr "Principal contact email of the journal: {$contactEmail}"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.invalid"
+msgstr "Enter a valid email address, or leave the field empty."
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.area.country"
+msgstr "Country"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.fillCountry"
+msgstr "Fill in the country of a new contributor with the country of the journal"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.journalCountry"
+msgstr "Country of the journal, set in the journal settings: {$journalCountry}"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.area.userGroup"
+msgstr "Contributor role"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.fillUserGroup"
+msgstr "Select the role of a new contributor"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup"
+msgstr "Role"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup.description"
+msgstr "While no role is chosen, the default Author role of the journal is used."
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup.journalDefault"
+msgstr "Default Author role of the journal"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup.invalid"
+msgstr "Choose one of the contributor roles of this journal."

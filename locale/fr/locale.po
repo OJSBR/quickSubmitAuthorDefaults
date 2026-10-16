@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: fr\n"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.displayName"
+msgstr "Valeurs par défaut des contributeurs de QuickSubmit"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.description"
+msgstr "Ouvre le formulaire d'un nouveau contributeur de QuickSubmit déjà rempli avec l'adresse courriel et le pays de la revue et avec le rôle d'Auteur, pour que le rédacteur ne saisisse que le nom. Tous les champs restent modifiables."
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.intro"
+msgstr "Lorsqu'un rédacteur ajoute un contributeur dans QuickSubmit, le formulaire s'ouvre avec les valeurs choisies ci-dessous. Ce n'est qu'un point de départ : chacune peut être modifiée avant l'enregistrement."
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.area.email"
+msgstr "Adresse courriel"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.fillEmail"
+msgstr "Remplir l'adresse courriel d'un nouveau contributeur"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email"
+msgstr "Adresse à utiliser"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.description"
+msgstr "Laissez vide pour utiliser l'adresse courriel du contact principal de la revue."
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.contactEmail"
+msgstr "Adresse courriel du contact principal de la revue : {$contactEmail}"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.invalid"
+msgstr "Saisissez une adresse courriel valide ou laissez le champ vide."
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.area.country"
+msgstr "Pays"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.fillCountry"
+msgstr "Remplir le pays d'un nouveau contributeur avec le pays de la revue"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.journalCountry"
+msgstr "Pays de la revue, défini dans les paramètres de la revue : {$journalCountry}"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.area.userGroup"
+msgstr "Rôle du contributeur"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.fillUserGroup"
+msgstr "Sélectionner le rôle d'un nouveau contributeur"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup"
+msgstr "Rôle"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup.description"
+msgstr "Tant qu'aucun rôle n'est choisi, le rôle d'Auteur par défaut de la revue est utilisé."
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup.journalDefault"
+msgstr "Rôle d'Auteur par défaut de la revue"
+
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup.invalid"
+msgstr "Choisissez l'un des rôles de contributeur de cette revue."

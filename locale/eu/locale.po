@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: eu\n"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.displayName"
+msgstr "QuickSubmit-eko egileen balio lehenetsiak"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.description"
+msgstr "QuickSubmit-eko egile berri baten formularioa aldizkariaren helbide elektronikoarekin, herrialdearekin eta Egile rolarekin beteta irekitzen du, editoreak izena bakarrik idatz dezan. Eremu guztiak editagarriak dira."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.intro"
+msgstr "Editore batek QuickSubmit-en egile bat gehitzen duenean, formularioa behean aukeratutako balioekin irekitzen da. Abiapuntu bat besterik ez dira: bakoitza gorde aurretik alda daiteke."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.area.email"
+msgstr "Helbide elektronikoa"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.fillEmail"
+msgstr "Egile berriaren helbide elektronikoa bete"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email"
+msgstr "Erabiliko den helbidea"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.description"
+msgstr "Utzi hutsik aldizkariaren harremanetarako kontaktu nagusiaren helbidea erabiltzeko."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.contactEmail"
+msgstr "Aldizkariaren kontaktu nagusiaren helbide elektronikoa: {$contactEmail}"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.email.invalid"
+msgstr "Idatzi baliozko helbide elektroniko bat edo utzi eremua hutsik."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.area.country"
+msgstr "Herrialdea"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.fillCountry"
+msgstr "Egile berriaren herrialdea aldizkariaren herrialdearekin bete"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.journalCountry"
+msgstr "Aldizkariaren herrialdea, aldizkariaren ezarpenetan zehaztua: {$journalCountry}"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.area.userGroup"
+msgstr "Egilearen rola"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.fillUserGroup"
+msgstr "Egile berriaren rola hautatu"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup"
+msgstr "Rola"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup.description"
+msgstr "Rolik aukeratzen ez den bitartean, aldizkariaren Egile rol lehenetsia erabiltzen da."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup.journalDefault"
+msgstr "Aldizkariaren Egile rol lehenetsia"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitAuthorDefaults.settings.userGroup.invalid"
+msgstr "Aukeratu aldizkari honetako egile-roletako bat."
