@@ -1,10 +1,10 @@
 # Quick Submit Contributor Defaults — OJS plugin
 
 [![OJS](https://img.shields.io/badge/OJS-3.5-brightgreen)](https://pkp.sfu.ca/ojs/)
-[![Version](https://img.shields.io/badge/version-1.1.0.0-blue)](version.xml)
+[![Version](https://img.shields.io/badge/version-5.0.0.0-blue)](version.xml)
 [![License](https://img.shields.io/badge/license-GPL--3.0-lightgrey)](LICENSE)
 
-**⬇️ Install package:** [OJS 3.5](https://github.com/OJSBR/quickSubmitAuthorDefaults/releases/download/1.1.0.0/quickSubmitAuthorDefaults-1.1.0.0.tar.gz) — or browse all [Releases](../../releases).
+**⬇️ Install package:** [OJS 3.5](https://github.com/OJSBR/quickSubmitAuthorDefaults/releases/download/5.0.0.0/quickSubmitAuthorDefaults-5.0.0.0.tar.gz) — or browse all [Releases](../../releases).
 
 A generic plugin for **OJS** that opens the form of a new contributor of the
 [Quick Submit](https://github.com/pkp/quickSubmit) plugin already filled in with the
@@ -18,7 +18,7 @@ types the given name and the family name and clicks **Save**. Every field stays 
 
 | Application | Branch | Plugin release |
 |-------------|--------|----------------|
-| OJS 3.5.x | [`stable-3_5_0`](../../tree/stable-3_5_0) *(default)* | 1.1.0.0 |
+| OJS 3.5.x | [`stable-3_5_0`](../../tree/stable-3_5_0) *(default)* | 5.0.0.0 |
 
 ## Why
 
@@ -147,7 +147,7 @@ Plugin genérico para **OJS** que abre o formulário de um novo coautor da
 **e-mail de apoio técnico** e o **país** da revista e com o papel de **Autor**. O editor digita o nome e o
 sobrenome e clica em **Salvar**. Todos os campos continuam editáveis.
 
-**⬇️ Pacote de instalação:** [OJS 3.5](https://github.com/OJSBR/quickSubmitAuthorDefaults/releases/download/1.1.0.0/quickSubmitAuthorDefaults-1.1.0.0.tar.gz) — ou veja todas as [Releases](../../releases).
+**⬇️ Pacote de instalação:** [OJS 3.5](https://github.com/OJSBR/quickSubmitAuthorDefaults/releases/download/5.0.0.0/quickSubmitAuthorDefaults-5.0.0.0.tar.gz) — ou veja todas as [Releases](../../releases).
 
 > **Desenvolvido e mantido pela [OJSBR](https://ojsbr.com).** Veja os
 > [Créditos e autoria](#créditos-e-autoria).
@@ -156,7 +156,7 @@ sobrenome e clica em **Salvar**. Todos os campos continuam editáveis.
 
 | Aplicação | Branch | Versão do plugin |
 |-----------|--------|------------------|
-| OJS 3.5.x | [`stable-3_5_0`](../../tree/stable-3_5_0) *(padrão)* | 1.1.0.0 |
+| OJS 3.5.x | [`stable-3_5_0`](../../tree/stable-3_5_0) *(padrão)* | 5.0.0.0 |
 
 ### Por quê
 
